@@ -45,7 +45,7 @@
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=2vedant8&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Footer -->
