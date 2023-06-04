@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="[your-profile-image-url](https://avatars.githubusercontent.com/u/111710495?s=400&u=d9273accca69aaf519f0864784c39663ac6d9094&v=4)" alt="Your Name" width="150" height="150">
+  <img src="[https://avatars.githubusercontent.com/u/111710495?s=400&u=d9273accca69aaf519f0864784c39663ac6d9094&v=4]" alt="Your Name" width="150" height="150">
 </p>
 <h1 align="center">👋 Hello, I'm Vedant Gupta!</h1>
 
