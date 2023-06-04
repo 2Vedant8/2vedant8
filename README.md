@@ -28,8 +28,8 @@
 <!-- Skills -->
 <h2 align="center">Skills and Technologies</h2>
 <p align="center">
-  <strong>🚀 Languages:</strong> C++ | JavaScript | HTML | CSS <br>
-  <strong>🌟 Frameworks:</strong> React | Express | Node.js | MongoDB <br>
+  <strong>🚀 Languages:</strong> C++ | JavaScript | HTML | CSS  <br>
+  <strong>🌟 Frameworks:</strong> React | Express | Node.js | MongoDB | Tailwind CSS<br>
   <strong>⚡ Tools:</strong> Git | VS Code | Postman | Firebase <br>
   <strong>🧠 Others:</strong> Data Structures | Algorithms | Problem Solving
 </p>
