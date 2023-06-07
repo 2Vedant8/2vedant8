@@ -6,7 +6,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="www.linkedin.com/in/vedantgupta28" target="_blank">
+  <a href=""https://linkedin.com/in/vedantgupta28" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
