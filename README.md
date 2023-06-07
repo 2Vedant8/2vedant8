@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="profile.png" alt="Your Name" width="150" height="150"  style="border-radius: 50%;">
+  <img src="profile.png" alt="Your Name">
 </p>
 <h1 align="center">👋 Hello, I'm Vedant Gupta!</h1>
 
