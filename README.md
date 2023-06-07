@@ -56,5 +56,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <em>Thanks for visiting! Feel free to connect with me on <a href="www.linkedin.com/in/vedantgupta28">LinkedIn</a> or check out my <a href
+  <em>Thanks for visiting! Feel free to connect with me on <a href="https://linkedin.com/in/vedantgupta28">LinkedIn</a> or check out my <a href
 
